@@ -1,0 +1,6 @@
+.second-main{
+    display: flex;
+    width: 380px;
+    justify-content: space-between;
+    padding: 0px 5px;
+}
